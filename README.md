@@ -29,5 +29,13 @@ catkin build
 roslaunch trajectory_generator demo.launch
 ```
 
-## Result Graphs
-![RRT*_Result](graphs/result.png)
+## Graphs
+![RRT* result](graphs/CPUPlot.png)
+```bash
+gnuplot --persist ../graphs/memory_plot.p
+```
+![Memory usage plot](graphs/MemoryPlot.png)
+
+## Note  
+> The optimal table is unique but the optimal alignment is not unique
+
