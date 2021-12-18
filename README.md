@@ -9,8 +9,7 @@ The project is a C++ implementation of old-school motion planning pipeline (path
 # Compile and run basic program
 cd ./catkin_ws
 catkin build
-cd ./catkin_ws/src/grid_path_searcher/launch
-roslaunch demo.launch
+roslaunch trajectory_generator demo.launch
 ```
 
 ## Result Graphs
