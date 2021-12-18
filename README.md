@@ -39,7 +39,3 @@ roslaunch trajectory_generator demo.launch
 
 ## Motion Planning Result
 ![Motion planning result](graphs/res.png)
-
-## Note  
-> The optimal table is unique but the optimal alignment is not unique
-
