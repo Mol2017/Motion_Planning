@@ -30,11 +30,11 @@ roslaunch trajectory_generator demo.launch
 ```
 
 ## Graphs
-![RRT* result](graphs/CPUPlot.png)
-```bash
-gnuplot --persist ../graphs/memory_plot.p
-```
-![Memory usage plot](graphs/MemoryPlot.png)
+![RRT* result](graphs/RRT*.png)
+
+![Mini-snap result](graphs/Mini-snap.png)
+
+![Motion planning result](graphs/res.png)
 
 ## Note  
 > The optimal table is unique but the optimal alignment is not unique
