@@ -29,11 +29,15 @@ catkin build
 roslaunch trajectory_generator demo.launch
 ```
 
-## Graphs
+## RRT* Path Finding
 ![RRT* result](graphs/RRT*.png)
 
+
+## Mini-snap Trajectory Generation
 ![Mini-snap result](graphs/Mini-snap.png)
 
+
+## Motion Planning Result
 ![Motion planning result](graphs/res.png)
 
 ## Note  
