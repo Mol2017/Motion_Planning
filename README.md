@@ -1,5 +1,5 @@
 # Motion Planning For UAV
-The project is a C++ implementation of old-school motion planning pipeline (path finding + optimization). 
+The final project of deepblue motion planning course. It's a C++ implementation of old-school motion planning pipeline (path finding + optimization). 
 - [x] [RRT* algorithm](trajectory_generator/src/rtt_searcher.cpp) path finding based on OMPL library
 - [x] [RDP algorithm](trajectory_generator/src/rtt_searcher.cpp) minimize waypoints based on divide & conquer
 - [x] [Minimum-snap algorithm](trajectory_generator/src/trajectory_generator_waypoint.cpp) trajectory generation based on QP problem
